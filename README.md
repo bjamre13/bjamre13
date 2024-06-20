@@ -1,7 +1,9 @@
-##jamre_bhojeshwar😜:
+**jamre_bhojeshwar**😜:
+
+
 Currently engaged in diverse projects, continuously enhancing my skills across various tech stacks, and enjoying the journey of learning and growth !!!
 
-**bjamre13/bjamre13**
+
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

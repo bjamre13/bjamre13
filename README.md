@@ -1,6 +1,6 @@
 # jamre_bhojeshwar😜:
 
-  ## Hello I'm Bhojeshwar(bhoju)
+  ## Hello I'm Bhojeshwar
   
 Currently engaged in diverse projects, continuously enhancing my skills across various tech stacks, and enjoying the journey of learning and growth !!!
 

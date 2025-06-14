@@ -62,7 +62,7 @@ Whether it’s facial recognition, suspicious behavior tracking, or support tick
 
 ## 🌐 Let's Connect
 
-<a href="https://linkedin.com/in/bjamre13" target="_blank">
+<a href="https://www.linkedin.com/in/bhojeshwar-jamre" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jamre.bhojeshwar13@gmail.com">
